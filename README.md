@@ -1,4 +1,4 @@
-# Your first static site (with Jekyll!)
+# This is my site! With Jekyll!!
 
 A starting frame for a Jekyll site.
 
